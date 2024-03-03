@@ -1,3 +1,7 @@
 pandas
 numpy
-
+pymongo
+psycopg2
+streamlit
+streamlit_option_menu
+googleapiclient.discovery 
